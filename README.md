@@ -45,15 +45,6 @@ I am a 3rd-year Computer Engineering student with a strong passion for bridging 
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedk04&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedk04&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="Top Languages" width="48%" />
-</div>
-
-<br/>
-
 ## 🌐 Let's Connect
 
 <p align="center">
