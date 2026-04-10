@@ -54,7 +54,7 @@ I am a 3rd-year Computer Engineering student with a strong passion for bridging 
   <a href="mailto:syedk.business@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://comingsoon(myprof).com" target="_blank">
+  <a href="https://syedk04.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Planet&logoColor=white" alt="Portfolio" />
   </a>
 </p>
