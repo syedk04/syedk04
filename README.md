@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I am a 3rd-year Computer Engineering student with a strong passion for bridging the gap between hardware and software. I enjoy building efficient, scalable, and impactful solutions.
+I am a 4th-year Computer Engineering student with a strong passion for bridging the gap between hardware and software. I enjoy building efficient, scalable, and impactful solutions.
 
 - 🎓 **Education:** Currently pursuing a B.Eng. in Computer Engineering
 - 🔬 **Current Focus:** Software Development, Embedded Systems, and Computer Architecture
