@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Syed 👋</h1>
-  <h3>A passionate 3rd-Year Computer Engineering Student</h3>
+  <h3>A passionate 4th-Year Computer Engineering Student</h3>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Hardware+%26+Software+Developer;Embedded+Systems+Enthusiast;Always+Learning+and+Building" alt="Typing SVG" />
 </div>
