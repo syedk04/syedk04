@@ -13,7 +13,7 @@ I am a 4th-year Computer Engineering student with a strong passion for bridging 
 
 - 🎓 **Education:** Currently pursuing a B.Eng. in Computer Engineering
 - 🔬 **Current Focus:** Software Development, Embedded Systems, and Computer Architecture
-- 💼 **Looking for:** Software Engineering, Embedded Systems, or Hardware Engineering Internships
+- 💼 **Looking for:** Software Engineering, Embedded Systems, or Hardware Engineering New Grad Positions
 - 🌱 **Currently Learning:** FPGA Design, Advanced C++, Machine Learning
 - 📫 **How to reach me:** syedk.business@gmail.com or connect on LinkedIn
 
